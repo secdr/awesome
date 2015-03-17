@@ -14,6 +14,9 @@ the other conferences you can ref the follow two links:
 1. [Computer Security Conference Ranking and Statistic](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm);
 2. [Top Crypto and Security Conferences Ranking](http://icsd.i2r.a-star.edu.sg/staff/jianying/conference-ranking.html).
 
-the recent security events and conference:
+## the recent security events and conference:
 1. [IEEE Cipher's Calendar of Security and Privacy Related Events](http://www.ieee-security.org/Calendar/cipher-hypercalendar.html);
-2. [UCL Crypto Group  | Call for papers](http://www.uclouvain.be/crypto/callforpapers/forthcoming).
+2. [UCL Crypto Group  | Call for papers](http://www.uclouvain.be/crypto/callforpapers/forthcoming);
+3. [Information Security Conferences of 2015](http://www.concise-courses.com/security/conferences-of-2015);
+4. [SEcore Conferences list](https://secore.info/conferences);
+5. [Duo Security’s information security calendar](https://www.duosecurity.com/resources/calendar);
