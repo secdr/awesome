@@ -8,9 +8,7 @@
 6. [SOC Network and Distributed System Security Symposium](http://www.isoc.org/isoc/conferences/ndss/) (NDSS);
 7. [International Symposium on  Research in Attacks, Intrusions and Defenses](http://www.raid-symposium.org/) (RAID);
 
-## Usefull Links
-
-the other conferences you can ref the follow two links:
+## the other conferences you can ref the follow two links:
 1. [Computer Security Conference Ranking and Statistic](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm);
 2. [Top Crypto and Security Conferences Ranking](http://icsd.i2r.a-star.edu.sg/staff/jianying/conference-ranking.html).
 
