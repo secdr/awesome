@@ -4,3 +4,5 @@
 2. [安全界的顶级会议](http://blog.ourren.com/?p=89306) 
 3. [科学没有捷径 --王铁磊博士访谈](http://www.douban.com/note/243601486/)
 4. [关于科研工作的闲谈](http://blog.sina.com.cn/s/articlelist_2903718283_1_1.html)
+5. [Writing a technical paper](http://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html);
+6. [Writing Tips for Academics](http://greatresearch.org/2013/10/11/storytelling-101-writing-tips-for-academics/);

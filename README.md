@@ -6,6 +6,22 @@ good resource for security research.
 + paper: about all kinds of paper.
 + tool: good tool for write paper.
 
+the dic sceen as below:
+
+    ├── LICENSE
+    ├── README.md
+    ├── book
+    │   ├── english-skill-books.md
+    │   └── research-books.md
+    ├── paper
+    │   ├── security paper search engine.md
+    │   ├── security-conference.md
+    │   └── usefull-articles-about-paper.md
+    └── tool
+        ├── paper-manager-software.md
+        └── paper-write-software.md
+        
+
 ## About
 
 Security Research Group(SRG) is focuses on the research in the security field. The group members could share some interesting things every day, including:
